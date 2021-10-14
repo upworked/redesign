@@ -1,6 +1,10 @@
 /*** IMPORTS ***/
 
-
+import Swiper from './modules/Swiper.js';
+import Menu from './modules/Menu.js';
+import Modal from './modules/Modal.js';
+import Validation from './modules/Validation.js';
+import WheelIndicator from './modules/WheelIndicator.js';
 
 /*** SCRIPTS ***/
 
@@ -264,7 +268,7 @@ contactsForm.addEventListener('submit', (event)=>{
                 field.closest('.form_item').classList.remove('invalid');
             })
 
-            fetch('server/sendmail.php', {
+            fetch('/server/sendmail.php', {
                 method: 'POST',
                 body: new FormData(contactsForm)
             })
