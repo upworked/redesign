@@ -1,6 +1,10 @@
 /*** IMPORTS ***/
 
-
+import Swiper from './modules/Swiper.js';
+import Menu from './modules/Menu.js';
+import Modal from './modules/Modal.js';
+import Validation from './modules/Validation.js';
+import WheelIndicator from './modules/WheelIndicator.js';
 
 /*** SCRIPTS ***/
 
