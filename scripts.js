@@ -1,10 +1,10 @@
 /*** IMPORTS ***/
 
-import Swiper from './modules/Swiper.js';
-import Menu from './modules/Menu.js';
-import Modal from './modules/Modal.js';
-import Validation from './modules/Validation.js';
-import WheelIndicator from './modules/WheelIndicator.js';
+import Swiper from './Swiper.js';
+import Menu from './Menu.js';
+import Modal from './Modal.js';
+import Validation from './Validation.js';
+import WheelIndicator from './WheelIndicator.js';
 
 /*** SCRIPTS ***/
 
