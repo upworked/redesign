@@ -1,20 +1,3 @@
-/*** IMPORTS ***/
-
-
-
-/*** BASIC STYLES ***/
-
-:root {
-    --white: #ffffff;
-    --black: #000000;
-    --dark: #252525;
-    --light: #fafafa;
-    --blue: #007bff;
-    --grey: #707070;
-    --light-grey: #c4c4c4;
-    --dark-blue: #00183b;
-    --red: #dd3535;
-}
 
 *{
     box-sizing: border-box;
@@ -79,7 +62,7 @@ textarea{
 }
 
 .h2{
-    font-size: 1.4rem;
+    font-size: 1.6875rem;
     margin: 0;
 }
 
@@ -929,7 +912,7 @@ textarea{
     transform: translateY(-50%) translateX(-100%);
     width: 100%;
     height: 16px;
-    background-image: url('/assets/img/arrow.png');
+    background-image: url('arrow.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1373,7 +1356,7 @@ textarea{
     }
 
     .h2{
-        font-size: 1.2rem;
+        font-size: 1.4rem;
     }
 
     .page-content-wrapper{
@@ -1687,7 +1670,7 @@ textarea{
     .clients_logos_item{
         width: 100%;
         justify-content: flex-start;
-        margin: 0 0 25px 0;
+        margin: 0 0 15px 0;
     }
 
     .principles_list_item:not(:last-child){
