@@ -545,36 +545,36 @@ textarea{
 }
 
 .intro_eye_circle-1{
-    background-image: url('intro-eye-circle-1.png');
+    background-image: url('intro-eye-circle-1.webp');
     animation: rotate 12s linear 0s infinite;
 }
 
 .intro_eye_circle-2{
-    background-image: url('intro-eye-circle-2.png');
+    background-image: url('intro-eye-circle-2.webp');
     animation: rotate 9s linear 0s infinite;
 }
 
 .intro_eye_circle-3{
-    background-image: url('intro-eye-circle-3.png');
+    background-image: url('intro-eye-circle-3.webp');
     animation: rotate 12s linear 0s infinite reverse;
 }
 
 .intro_eye_circle-4{
-    background-image: url('intro-eye-circle-4.png');
+    background-image: url('intro-eye-circle-4.webp');
     animation: rotate 15s linear 0s infinite;
 }
 
 .intro_eye_eye-1{
-    background-image: url('intro-eye-1-new.png');
+    background-image: url('intro-eye-1-new.webp');
 }
 
 .intro_eye_eye-2{
-    background-image: url('intro-eye-2-new.png');
+    background-image: url('intro-eye-2-new.webp');
     transition: transform .5s ease;
 }
 
 .intro_eye_eye-3{
-    background-image: url('intro-eye-3-new.png');
+    background-image: url('intro-eye-3-new.webp');
 }
 
 .intro_eye.active .intro_eye_eye-2{
@@ -818,21 +818,21 @@ textarea{
 }
 
 .principles_circle-1 {
-    background-image: url(principles-circle-1.png);
+    background-image: url(principles-circle-1.webp);
 }
 
 .principles_circle-2 {
-    background-image: url(principles-circle-2.png);
+    background-image: url(principles-circle-2.webp);
     animation: rotate 9s linear 0s infinite;
 }
 
 .principles_circle-3 {
-    background-image: url(principles-circle-3.png);
+    background-image: url(principles-circle-3.webp);
     animation: rotate 12s linear 0s infinite reverse;
 }
 
 .principles_circle-4 {
-    background-image: url(principles-circle-4.png);
+    background-image: url(principles-circle-4.webp);
     animation: rotate 15s linear 0s infinite;
 }
 
