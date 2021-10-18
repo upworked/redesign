@@ -473,7 +473,7 @@ textarea{
     height: 100%;
     max-width: 1197px;
     margin: 0 auto;
-    padding: 68px 42px;
+    padding: 68px 0px;
     display: flex;
 }
 
